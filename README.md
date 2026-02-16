@@ -29,9 +29,7 @@ The main challenge was creating a three-column article layout with equal widths 
 
 ## File Structure
 ```
-├── newspaper_final_guideline.html    # Main HTML newspaper file
-├── newspaper_explanation.pdf          # One-page explanation document
-├── newspaper_explanation.tex          # LaTeX source for explanation
+├── english_newspaper.html    # Main HTML newspaper file
 ├── README.md                          # This file
 └── images/                            # Newspaper images
     ├── OIP.jpg                        # President Zia photo
